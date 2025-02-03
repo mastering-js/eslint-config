@@ -13,10 +13,6 @@ module.exports = [{
     'no-const-assign': 'error',
     'no-undef': 'error',
     'no-unreachable': 'error',
-    'strict': [
-      'error',
-      'global'
-    ],
 
     // Warnings: style and readability concerns
     'indent': [
