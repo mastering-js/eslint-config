@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = {
+module.exports = [{
   rules: {
     // Errors: probable bugs
     'semi': 'error',
@@ -61,4 +61,4 @@ module.exports = {
     'no-var': 'warn',
     'prefer-const': 'warn',
   }
-}
+}];

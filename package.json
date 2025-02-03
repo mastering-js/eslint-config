@@ -1,9 +1,9 @@
 {
   "name": "@masteringjs/eslint-config",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "8.x"
+    "eslint": "9.x"
   }
 }
